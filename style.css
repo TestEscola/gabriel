@@ -1,0 +1,53 @@
+.top {
+height: 100px;
+background-color: rgb(0, 204, 255);
+border-radius: 300px;
+box-shadow: 5px 5px 20px rgba(0,0,0,0.7)
+
+}
+
+
+.menu {
+
+list-style: none;
+display: flex;
+justify-content: right;
+padding: 40px;
+
+}
+
+nav ul li {
+margin: 20px;
+
+}
+
+.box1{
+
+  width: 300px;
+height: 600px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.7);
+  background-color: chocolate;
+position: relative;
+top: 30px;
+float: right;
+
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
